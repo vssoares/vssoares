@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, eu sou o Vinicius 👋
 
-<!--
-**vssoares/vssoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou no 5° semestre de Análise e Desenvolvimento de Sistemas na faculdade Estácio, em Curitiba
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 No momento estou aprendendo Angular 10 e NodeJS
+
+- 💬 Caso queira falar comigo | Email : vsss23@hotmail.com ou [aqui](https://github.com/vssoares/vssoares/issues)
+
+#### Projetos Acadêmicos:
+- [Capifood](https://github.com/CapivaraCode/CapiFood)
+
+
+#### Projetos Pessoais:
+- [Clone do site da Ummense](https://github.com/vssoares/-clone-ummense)
